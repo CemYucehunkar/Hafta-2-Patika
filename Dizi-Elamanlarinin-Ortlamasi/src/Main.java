@@ -11,7 +11,12 @@ Arrays.sort(liste);
 
             sum += liste[i];
 
+
         }
         System.out.print(" Dizideki Sayıların Harmonik Ortalaması : " + (ortalam += liste.length/sum));
+
+
+
     }
+
 }
